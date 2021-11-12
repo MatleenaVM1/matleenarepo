@@ -1,0 +1,9 @@
+{
+	"name": "MatleenaDF",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "60deff47-0eb1-4d19-9312-e6cc8378f5ac",
+		"tenantId": "fbd2f045-b34c-4673-9534-8f2374355cec"
+	}
+}
